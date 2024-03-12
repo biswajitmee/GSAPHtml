@@ -1,0 +1,14 @@
+/* Global styles come from external css https://codepen.io/GreenSock/pen/gOWxmWG */
+
+
+  
+  .box {
+    width: 100px;
+    height: 100px;
+    display: block;
+    background-color: green;
+  }
+  
+  .world{ padding:25px; margin: 50px; overflow: hidden; width: 100vw; scroll-behavior:inherit; }
+
+  .morph1{ display: none;}
